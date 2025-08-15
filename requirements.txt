@@ -1,0 +1,11 @@
+#REQUIRED INSTALLATIONS FOR THE PROJECT'S ENVIRONMENT
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.55.0
+datasets>=4.0.0
+peft>=0.17.0
+soundfile>=0.13.0
+jiwer>=4.0.0
+numpy>=2.1.0
+pandas>=2.3.0
+accelerate>=1.10.0
